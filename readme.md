@@ -3,12 +3,12 @@
 * ``` cd .\ba_machine_learning_2019 ```
 * ``` setup.ps1 ```
 * Setup VSCode (Optional)
-  * Open Folder ``` ba_machine_learning_2019 ```
-  * Select Interpreter: 
+  * Open folder ``` ba_machine_learning_2019 ```
+  * Select interpreter: 
     <kbd>command</kbd> + <kbd>shift</kbd> + <kbd>P</kbd>
     execute ``` Python: Select Interpreter ``` 
     select ``` .\env\Scripts\python.exe ```
-  * Activate env (Optional for terminal commands): 
+  * Activate environment (Optional for terminal commands): 
     ``` .\activate.ps1 ```
 
 # Upgrade environment
@@ -27,7 +27,7 @@
 * Download and install the Windows package from here:
     https://graphviz.gitlab.io/_pages/Download/Download_windows.html
 
-# Install CUDA library(used to train the models on your GPU)
+# Install CUDA library (used to train the models on your GPU)
 * Update your graphics-card driver: 
     https://www.nvidia.de/Download/index.aspx?lang=de
 * Install CUDA 10.0: 
